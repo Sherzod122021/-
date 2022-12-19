@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\учим c#\tusk5\bin\Debug\net6.0\tusk5.exe
+C:\Users\USER\Desktop\учим c#\tusk5\bin\Debug\net6.0\tusk5.deps.json
+C:\Users\USER\Desktop\учим c#\tusk5\bin\Debug\net6.0\tusk5.runtimeconfig.json
+C:\Users\USER\Desktop\учим c#\tusk5\bin\Debug\net6.0\tusk5.dll
+C:\Users\USER\Desktop\учим c#\tusk5\bin\Debug\net6.0\tusk5.pdb
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\tusk5.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\tusk5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\tusk5.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\tusk5.AssemblyInfo.cs
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\tusk5.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\tusk5.dll
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\refint\tusk5.dll
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\tusk5.pdb
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\tusk5.genruntimeconfig.cache
+C:\Users\USER\Desktop\учим c#\tusk5\obj\Debug\net6.0\ref\tusk5.dll
