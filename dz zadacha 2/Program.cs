@@ -13,7 +13,7 @@ if (min > max )
 
 else  
 
-     Console.WriteLine("Максимальное число " + max);
+    System.Console.WriteLine("Максимальное число " + max);
    
   
 
