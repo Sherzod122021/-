@@ -6,9 +6,10 @@
     System.Console.WriteLine("Введите число ");
 
     int N = Convert.ToInt32(System.Console.ReadLine());
-    int count = 0;
+    int count = 2;
 
-    while (count < N );
-        System.Console.WriteLine( N );
+    while (count <= N )
+       System.Console.WriteLine( count );
         count = count + 2 ;
+        
 
